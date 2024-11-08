@@ -172,7 +172,7 @@ document.addEventListener("DOMContentLoaded", event => {
 });
 // Splash texts
 const SplashT = [
-  "Made by Anthony Flowers",
+  "Made by AnthonyFlowers",
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);
