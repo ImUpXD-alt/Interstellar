@@ -27,7 +27,7 @@
       position: relative;
       top: -10vw;
       font-size: 10vw;
-      color: var(--text-primary);
+      color: white;  /* White color for the text */
       font-family: "Inter", sans-serif;
       text-align: center;
       text-transform: uppercase;
