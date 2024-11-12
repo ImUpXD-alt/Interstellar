@@ -6,7 +6,7 @@
 
 .title {
    font-size: 10vh;
-   color: #111111
+   color: var(--text-primary);
    font-family: "Inter", sans-serif;
    text-align: center;
    text-transform: uppercase;
