@@ -6,7 +6,7 @@
 
 .title {
    font-size: 10vh;
-   color: #FFFFFF
+   color: var(--text-primary);
    font-family: "Inter", sans-serif;
    text-align: center;
    text-transform: uppercase;
@@ -90,7 +90,7 @@ input {
 }
 
 #splash {
-   color: #FFFFFF
+   color: var(--text-dark);
    margin-bottom: 1em;
    margin-top: -2em;
    padding: 0;
